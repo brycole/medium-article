@@ -64,5 +64,8 @@ main section a:hover {
   .container {
     width: 300px;
   }
-  header { background-position: right;}
+  header {
+    background-position: right;
+    background-attachment:scroll
+  }
 }
