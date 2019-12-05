@@ -66,6 +66,6 @@ main section a:hover {
   }
   header {
     background-position: right;
-    background-attachment:scroll
+    background-repeat: no-repeat;
   }
 }
